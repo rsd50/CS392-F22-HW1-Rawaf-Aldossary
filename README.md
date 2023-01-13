@@ -2,5 +2,5 @@
 Rawaf-Aldossary
 Ahmad-Alotaibi
 Naif-Almalki
-Abdulrahman-ALnmir
+Abdulrahman-Alnmir
 Abdulilah-Alaglan
