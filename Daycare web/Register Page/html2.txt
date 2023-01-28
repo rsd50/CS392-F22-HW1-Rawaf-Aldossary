@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>  
+    <head>   
+    <title>Registration Page </title>  
+    
+    <link rel="stylesheet" type="text/css" href="css/css2.css"
+    </head>  
+     
+    <br>  
+    <br>  
+    <form action="Untitled-1.html"method="post">  
+      
+      
+        <div>
+
+
+         
+           
+    FirstName:<input type="text" name = "FirstName" value="" required/><br><br>
+    MiddleName:<input type="text" name="MiddleName" value="" required/> <br> <br>       
+    LastName:<input required type="text" name="LastName" /> <br> <br>        
+    Id:<input required type="text" name="Id" value=""  /> <br> <br>
+       
+    Age:<input type="text" name="Age" value="" required/> <br> <br> 
+    <br><br>
+    <br>  
+    DateOfBirth:<input type="text" name="DateOfBirth"  value="" required/> <br> <br>  
+      
+    </body>  
+    </html>    
+    
+<br>  
+ <br>  
+ Gender:<input type="text" name="Gender" value="" required/> <br> <br> 
+    <br>  
+    <br>  
+        
+    Phone:<input required type="text" name="Phone"/> <br> <br>  
+    Child_Information  
+    <br>  
+    <textarea required cols="80" rows="5" name = Child_Information value="" required>  
+    </textarea>  
+    <br> <br>  
+    Email:  
+    <input required type="email" name="Email" value="" /> <br>    
+    <br> <br>  
+    Password:  
+    <input required type="Password" name="Password" value="" > <br>   
+    <br> <br>  
+    Rewrite_password:  
+    <input required type="Password" name="Password" value="" > <br> <br> 
+    <input type="submit" value="Submit" ,<a href="end.html"></a> 
+    <a href="end.html" class="button">Next</a>
+
+    
+    </form>  
+    </body>  
+    </html>  
+    

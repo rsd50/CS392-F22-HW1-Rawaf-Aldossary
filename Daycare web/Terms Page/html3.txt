@@ -1,0 +1,34 @@
+<Html>  
+    <head>   
+    <title>  
+    terms and conditions Page  </title>  
+    <link rel="stylesheet" type="text/css" href="css/css3.css"
+    
+    </head>  
+    
+    <br>  
+    <br>  
+    <form>  
+      <div>
+
+
+      
+    <label> 1- The child must be between 0 and 6 years old  </label> <br> <br> 
+    <label> 2- The child does not suffer from any chronic diseases  </label> <br> <br> 
+    <label> 3- The registration should be during the permissible period  </label> <br> <br> 
+    <label> 4- The fees are paid at the beginning of the semester  </label> <br> <br> 
+    <label> 5- The facility has the right to request any additional information  </label> <br> <br> 
+    <label> 6- The facility has the right to accept and reject the request without mentioning the reasons  </label> <br> <br> 
+    
+    <div class="tacbox">
+      <input id="checkbox" type="checkbox" required/>
+      <label for="checkbox"> I agree to these <a href="#">Terms and Conditions</a>.</label>
+    
+      <div class="button">
+    
+        
+        <a href="regster.html" class="button">Next</a>
+        
+        
+    </div>
+</div>
